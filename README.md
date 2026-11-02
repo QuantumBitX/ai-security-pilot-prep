@@ -8,6 +8,8 @@ It is a static website: no server, no accounts and no tracking. Your progress st
 
 ![Course home page](assets/screenshots/home.png)
 
+**▶ Start the course: [quantumbitx.github.io/ai-security-pilot-prep](https://quantumbitx.github.io/ai-security-pilot-prep/)**
+
 ## At a glance
 
 | | |
