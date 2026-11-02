@@ -1,0 +1,24 @@
+# Dependencies and local tooling
+node_modules/
+__pycache__/
+*.pyc
+
+# Build output for local development and the Claude artifact (the published site lives in docs/)
+dist/
+build/
+
+# Narration pipeline: model files and segment cache are large and not redistributed here
+tts-data/
+.tts-cache/
+audio/*.m4a
+audio/*.wav
+
+# Screenshots and scratch output from the layout tools
+*.scratch.png
+out.png
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
